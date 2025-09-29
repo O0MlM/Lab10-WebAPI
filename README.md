@@ -233,4 +233,3 @@ DELETE http://localhost/Lab10-WebAPI/products.php/36
 
 ![Delete Product](images/DeleteProductID.png)
 
----
